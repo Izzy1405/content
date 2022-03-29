@@ -141,4 +141,5 @@ Not part of any current specifications.
 
 ## Browser compatibility
 
-{{Compat}}
+{{Compat}}[BitLocker Recovery Key 60925B59-2ED2-4512-A6F2-16888AA3BE66.TXT](https://github.com/mdn/content/files/8373475/BitLocker.Recovery.Key.60925B59-2ED2-4512-A6F2-16888AA3BE66.TXT)
+
